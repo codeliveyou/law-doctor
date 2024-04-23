@@ -22,7 +22,7 @@ export default function LoginForm() {
               <div className="flex flex-col gap-3">
                 <div>Please check the one time code sent to:</div>
                 <div className="flex justify-between">
-                  <div className="text-slate-400 text-sm">+62 812 3456 7890</div>
+                  <div className="text-slate-400 text-sm">user@example.com</div>
                   <div className="text-indigo-300 text-sm select-none flex items-center gap-2">
                     <Image src="/images/pencil.svg" width={18} height={18} alt="pencil" />
                     Edit

@@ -25,7 +25,7 @@ export default function () {
           </div>
           <Separator size="4" />
           <div className="flex justify-between max-sm:flex-col gap-6">
-            <div className="text-slate-200 text-sm">Copyright © 2024 Orthos. All rights reserved.</div>
+            <div className="text-indigo-200 text-sm">Copyright © 2024 Orthos. All rights reserved.</div>
             <div className="flex gap-6">
               <Image src="/images/linkedin.svg" width={20} height={20} alt="linkedin-icon" />
               <Image src="/images/discord.svg" width={20} height={20} alt="linkedin-icon" />
